@@ -1,4 +1,4 @@
-class Solution {
+class can_place_flowers {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int len = flowerbed.length;
         

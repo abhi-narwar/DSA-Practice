@@ -1,4 +1,4 @@
-class Solution {
+class largest_element {
     public static int largest(int[] arr) {
         int largest = arr[0];
         for (int i = 1; i < arr.length; i++) {

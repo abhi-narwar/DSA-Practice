@@ -1,4 +1,4 @@
-class Solution {
+class second_largest_in_an_array {
     public int getSecondLargest(int[] arr) {
         int largest=arr[0];
         int s_largest=-1;

@@ -1,4 +1,4 @@
-class Solution {
+class best_time_buy_sell_stock_ll {
     public int maxProfit(int[] prices) {
         int profit = 0;
 

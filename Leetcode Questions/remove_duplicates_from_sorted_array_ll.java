@@ -1,4 +1,4 @@
-class Solution {
+class remove_duplicates_sorted_array_ll {
     public int removeDuplicates(int[] nums) {
         int i = 0;  
         for (int num : nums) {
