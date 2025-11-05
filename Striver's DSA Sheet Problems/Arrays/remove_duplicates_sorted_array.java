@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 class remove_duplicates_sorted_array {
-    ArrayList<Integer> removeDuplicate(int[] arr) {
+    ArrayList<Integer> remove_duplicate(int[] arr) {
         ArrayList<Integer> result = new ArrayList<>();
         result.add(arr[0]); 
 
