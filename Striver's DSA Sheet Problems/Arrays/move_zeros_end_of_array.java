@@ -12,5 +12,3 @@ class move_zeros_end_of_array {
         }
     }
 }
-
-
