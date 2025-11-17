@@ -1,4 +1,5 @@
 //Moore’s Voting Algorithm
+
 class  majority_element {
     public int majorityElement(int[] nums) {
         int candidate = 0;
